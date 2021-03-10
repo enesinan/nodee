@@ -3,7 +3,7 @@ node and express js usecases
 
 # studies
  --> node,</br>
-     express,
+     express,</br>
      using nodemon for automatically re-start the server,
      using postman tools for the test the server,
      understand the json format,
