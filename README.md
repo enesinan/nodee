@@ -22,7 +22,6 @@ node and express js usecases...  </br>
 
 # LICENSE
 
-
 MIT License
 
 Copyright (c) 2021 enes-dev
