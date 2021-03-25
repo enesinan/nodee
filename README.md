@@ -16,9 +16,6 @@ node and express js usecases...  </br>
  -->separate the dev-dependencies from the dependencies when use different tools along the development process,</br>
  -->using the body-parser package for the parse incoming request bodies in a middleware before your handlers,
      
-     
-     
-     
 # CONTRIBUTING
 
  feel free to contribute by adding new templates to this project.
