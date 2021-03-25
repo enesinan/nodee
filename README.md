@@ -20,8 +20,6 @@ node and express js usecases...  </br>
 
  feel free to contribute by adding new templates to this project.
 
-
-
 # LICENSE
 
 
